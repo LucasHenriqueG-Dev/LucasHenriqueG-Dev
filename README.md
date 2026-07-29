@@ -59,4 +59,4 @@
 ---
 
 📬 **Entre em contato comigo:**
-Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI) ou enviar uma mensagem!
+Sinta-se à vontade para se conectar comigo no [LinkedIn]([https://www.linkedin.com/in/lucas-henrique-dev/]) ou enviar uma mensagem!
