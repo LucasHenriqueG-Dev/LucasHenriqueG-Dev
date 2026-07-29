@@ -49,13 +49,13 @@
 
 ---
 
+
+
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueG-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueG-Dev&layout=compact&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasHenriqueG-Dev&theme=react-dark" />
 </p>
-
 ---
 
 📬 **Entre em contato comigo:**
