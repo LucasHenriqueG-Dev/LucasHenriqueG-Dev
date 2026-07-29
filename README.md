@@ -47,8 +47,9 @@
 * 📱 **[Fale Fácil](https://github.com/LucasHenriqueG-Dev/TCC-Senai-Betim-Lucas_Henrique):** Plataforma desenvolvida para modernizar o registro, acompanhamento e gerenciamento de demandas internas empresariais. *(TCC SENAI)*
 * 🏗️ **[Gestão de Insumos - Construção Civil](https://github.com/LucasHenriqueG-Dev/attSENAI_construcao_civil):** Sistema desenvolvido para controle e monitoramento rigoroso de insumos para estoque.
 
----
 
+
+---
 
 
 ### 📊 Minhas Estatísticas
