@@ -1,10 +1,8 @@
 # Olá, eu sou o Lucas Henrique Guimarães 👋
 
 <p align="center">
-  <b>
-    Analise e Desenvolvimento de Sistemas - PUC Minas |
-    Técnico em Desenvolvimento de Sistemas (SENAI) | Desenvolvedor de Software
-  </b>
+  <b>Análise e Desenvolvimento de Sistemas - PUC Minas</b><br />
+  <b>Técnico em Desenvolvimento de Sistemas (SENAI) | Desenvolvedor de Software</b>
 </p>
 
 <p align="center">
@@ -50,16 +48,14 @@
 * 📱 **[Fale Fácil](https://github.com/LucasHenriqueG-Dev/TCC-Senai-Betim-Lucas_Henrique):** Plataforma desenvolvida para modernizar o registro, acompanhamento e gerenciamento de demandas internas empresariais. *(TCC SENAI)*
 * 🏗️ **[Gestão de Insumos - Construção Civil](https://github.com/LucasHenriqueG-Dev/attSENAI_construcao_civil):** Sistema desenvolvido para controle e monitoramento rigoroso de insumos para estoque.
 
-
-
 ---
-
 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasHenriqueG-Dev&theme=react-dark" />
 </p>
+
 ---
 
 📬 **Entre em contato comigo:**
