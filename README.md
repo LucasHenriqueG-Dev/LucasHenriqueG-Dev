@@ -1,7 +1,10 @@
 # Olá, eu sou o Lucas Henrique Guimarães 👋
 
 <p align="center">
-  <b>Técnico em Desenvolvimento de Sistemas (SENAI) | Desenvolvedor de Software</b>
+  <b>
+    Analise e Desenvolvimento de Sistemas - PUC Minas |
+    Técnico em Desenvolvimento de Sistemas (SENAI) | Desenvolvedor de Software
+  </b>
 </p>
 
 <p align="center">
