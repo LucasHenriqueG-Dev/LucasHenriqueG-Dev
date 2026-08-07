@@ -20,7 +20,7 @@
 
 - 🎓 Formação Técnica em **Desenvolvimento de Sistemas** pelo **SENAI Betim**.
 - 💻 Focado em soluções de software eficientes utilizando **Java**, **Python**, **SQL** e ecossistema Web.
-- 🌐 Idiomas: **Inglês Avançado / Fluente (C1)**.
+- 🌐 Idiomas: **Inglês Avançado (C1)**.
 - 📍 Betim, Minas Gerais - Brasil.
 
 ---
