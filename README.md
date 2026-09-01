@@ -89,14 +89,13 @@ Atualmente, estou focado em evoluir meus conhecimentos em **Java, C#, SQL e dese
 
 
 
-
 ## 📫 Contato
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
     LinkedIn
   </a>
   &nbsp; • &nbsp;
-  <a href="https://google.com" target="_blank">
+  <a href="mailto:lucass.guimaraes.dev@gmail.com">
     Email
   </a>
   &nbsp; • &nbsp;
