@@ -95,9 +95,9 @@ Atualmente, estou focado em evoluir meus conhecimentos em **Java, C#, SQL e dese
     LinkedIn
   </a>
   &nbsp; • &nbsp;
-  <a href="mailto:lucass.guimaraes.dev@gmail.com">
-    Email
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucass.guimaraes.dev@gmail.com" target="_blank">
+  Email
+</a>
   &nbsp; • &nbsp;
   <a href="https://github.com" target="_blank">
     GitHub
