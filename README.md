@@ -92,19 +92,15 @@ Atualmente, estou focado em evoluir meus conhecimentos em **Java, C#, SQL e dese
 
 ## 📫 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-henrique-dev/">
+  <a href="https://linkedin.com" target="_blank">
     LinkedIn
   </a>
   &nbsp; • &nbsp;
-  <a href="mailto:lucass.guimaraes.dev@gmail.com">
+  <a href="https://google.com" target="_blank">
     Email
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/LucasHenriqueG-Dev">
+  <a href="https://github.com" target="_blank">
     GitHub
   </a>
-</p>
-
-<p align="center">
-  <i>Obrigado por visitar meu perfil!</i>
 </p>
