@@ -39,7 +39,7 @@ Atualmente, estou focado em evoluir meus conhecimentos em **Java, C#, SQL e dese
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python" />
 </p>
 
 ### Desenvolvimento Web
