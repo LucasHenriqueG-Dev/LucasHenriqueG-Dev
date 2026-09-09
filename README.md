@@ -58,30 +58,7 @@ Atualmente, estou focado em evoluir meus conhecimentos em **Java, C#, SQL e dese
 
 ## 🚀 Projetos
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Fale Fácil</h3>
-      <p>
-        Sistema desenvolvido como TCC no SENAI para registro,
-        acompanhamento e gerenciamento de demandas internas empresariais.
-      </p>
-      <a href="https://github.com/LucasHenriqueG-Dev/TCC-Senai-Betim-Lucas_Henrique">
-        Ver projeto →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🏗️ Gestão de Insumos</h3>
-      <p>
-        Sistema para controle e gerenciamento de insumos e estoque
-        voltado para projetos de construção civil.
-      </p>
-      <a href="https://github.com/LucasHenriqueG-Dev/attSENAI_construcao_civil">
-        Ver projeto →
-      </a>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td width="50%"> <h3>💻 Aprendendo C#</h3> <p> Repositório dedicado aos estudos e práticas de programação em C#, reunindo exercícios e projetos desenvolvidos durante o aprendizado. </p> <a href="https://github.com/LucasHenriqueG-Dev/aprendendo-c-.git"> Ver projeto → </a> </td> <td width="50%"> <h3>📱 Fale Fácil</h3> <p> Sistema desenvolvido como TCC no SENAI para registro, acompanhamento e gerenciamento de demandas internas empresariais. </p> <a href="https://github.com/LucasHenriqueG-Dev/TCC-Senai-Betim-Lucas_Henrique"> Ver projeto → </a> </td> </tr> </table>
 
 ---
 
